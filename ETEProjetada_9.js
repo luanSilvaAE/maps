@@ -1,0 +1,1 @@
+var json_ETEProjetada_9 = {"type":"FeatureCollection","name":"ETEProjetada_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":null,"Name":"ETE Bandeirantes"},"geometry":{"type":"MultiPoint","coordinates":[[-42.741122097795099,-22.731975970690197]]}}]}
